@@ -1,0 +1,10 @@
+.contianer{
+    width:600px;
+    margin: 100px auto;
+    text-align: center;
+}
+.time{
+    border:1px outset black;
+    box-shadow: 4px 4px 4px;
+    padding: 10px;
+}
